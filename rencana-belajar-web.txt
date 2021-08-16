@@ -10,3 +10,4 @@ Rencana belajar web development
 -. belajar framework bootstrap
 -. flexbox
 -. CSS grid
+-. Belajar dasar javascript

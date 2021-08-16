@@ -6,3 +6,4 @@ Rencana belajar web development
 -. CSS 3
   *. belajar opacity
   *. animations
+  *. box shadow

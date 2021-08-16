@@ -1,0 +1,6 @@
+Rencana belajar web development 
+
+-. Belajar HTML Dasar
+-. CSS Dasar
+-. CSS Layouting
+-. CSS 3

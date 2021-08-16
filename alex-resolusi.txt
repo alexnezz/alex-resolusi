@@ -2,5 +2,5 @@ Alex Resolusi
 -. bisa paham cara pembuatan website
 -. bisa membuat website sendiri 
 -. bisa mengajar orang cara membuat website yang baik
--. membuat web apps
 -. ikut lomba web development
+-. membuat web E-commerce

@@ -7,7 +7,9 @@ Rencana belajar web development
   *. belajar opacity
   *. animations
   *. box shadow
--. belajar framework materialize CSS
+-. belajar framework bootstrap CSS
 -. flexbox
--. belajar javascript dasar
--. belajar DOM di javascript
+-. CSS grid
+-. Belajar dasar javascript
+-. Belajar DOM di javascript
+

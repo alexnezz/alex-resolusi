@@ -4,3 +4,5 @@ Rencana belajar web development
 -. CSS Dasar
 -. CSS Layouting
 -. CSS 3
+  *. belajar opacity
+  *. animations

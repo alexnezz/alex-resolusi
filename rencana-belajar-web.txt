@@ -1,0 +1,9 @@
+Rencana belajar web development 
+
+-. Belajar HTML Dasar
+-. CSS Dasar
+-. CSS Layouting
+-. CSS 3
+  *. belajar opacity
+  *. animations
+  *. box shadow
